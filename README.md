@@ -33,17 +33,8 @@ The whole program is bundled into a single jar file and can be downloaded using 
 # Run the program using
 ```bash
 java -jar <path to jar file>
-```
-### Input IP: Enter the IPv4 Address you want to connect to
-### Enter Port: Enter a Port which is free
 
+Input IP: Enter the IPv4 Address you want to connect to
+Enter Port: Enter a Port which is free
 Do the same on the other device.
-
-
-
-
-
-
-
-
-
+```
