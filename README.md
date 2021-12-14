@@ -28,7 +28,7 @@ The device acting as server will always be the first to play and plays as X.
 
 ## Usage
 The whole program is bundled into a single jar file and can be downloaded using the link below
-[Download Jar file](https://github.com/jeevesh2002/Tic-Tac-Toe-over-LAN--java)
+[Download Jar file](https://github.com/jeevesh2002/Tic-Tac-Toe-over-LAN--java/raw/master/TicTacToe.jar)
 
 # Run the program using
 ```bash
